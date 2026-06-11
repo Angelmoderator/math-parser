@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/angel_moderator/C++/math_parser/build/_deps/catch2-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

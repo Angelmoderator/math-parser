@@ -1,0 +1,10 @@
+/home/angel_moderator/C++/math_parser/build/CMakeFiles/math_parser.dir
+/home/angel_moderator/C++/math_parser/build/CMakeFiles/tests.dir
+/home/angel_moderator/C++/math_parser/build/CMakeFiles/edit_cache.dir
+/home/angel_moderator/C++/math_parser/build/CMakeFiles/rebuild_cache.dir
+/home/angel_moderator/C++/math_parser/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/home/angel_moderator/C++/math_parser/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+/home/angel_moderator/C++/math_parser/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+/home/angel_moderator/C++/math_parser/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+/home/angel_moderator/C++/math_parser/build/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+/home/angel_moderator/C++/math_parser/build/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir
